@@ -1,0 +1,14 @@
+layout_spectrum: 0.09601456229574978
+typography_spectrum: 0.2812009679619223
+color:
+  brandStrength: 0.8634550597053021
+  lightness: 0.06457007583230734
+  saturation: 0.2532156656961888
+  rhythmicContrast: 0.29212125204503536
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: logovinda
