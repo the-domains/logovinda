@@ -12,3 +12,7 @@ color:
     - '#5C6B73'
     - '#253237'
 name: logovinda
+navigation:
+  - name: Inside the Stunning Mansion in Ex Machina
+    id: f438aebe-7793-400e-8aaa-23dc89cab2aa
+    type: content
