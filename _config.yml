@@ -1,4 +1,3 @@
-layout_spectrum: 0.09601456229574978
 typography_spectrum: 0.2812009679619223
 color:
   brandStrength: 0.8634550597053021
@@ -11,8 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.09601456229574978
 name: logovinda
 navigation:
   - name: Inside the Stunning Mansion in Ex Machina
     id: f438aebe-7793-400e-8aaa-23dc89cab2aa
     type: content
+title: smart art
